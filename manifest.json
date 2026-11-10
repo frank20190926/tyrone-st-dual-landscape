@@ -1,0 +1,67 @@
+{
+  "sheets": [
+    {
+      "number": "LA-01",
+      "title": "Garden & frontage / concept review",
+      "src": "assets/board1_hero_3d_dual_landscape.jpg"
+    },
+    {
+      "number": "LA-02",
+      "title": "Master landscape plan / pools & easements",
+      "src": "assets/board2_masterplan_pools_easements.jpg"
+    },
+    {
+      "number": "LA-03",
+      "title": "Levels / planting & hardscape",
+      "src": "assets/board3_sections_driveway_planting.jpg"
+    },
+    {
+      "number": "LA-04",
+      "title": "Coordinated model / drainage & trees",
+      "src": "assets/board4_axon_drainage_deliverables.jpg"
+    }
+  ],
+  "downloads": [
+    {
+      "url": "downloads/21_Tyrone_St_Dual_Home_Landscape.blend",
+      "label": "BLEND \u00b7 native 3D scene",
+      "size": "0.4 MB"
+    },
+    {
+      "url": "downloads/21_Tyrone_St_Dual_Home_Landscape.dwg",
+      "label": "DWG \u00b7 AutoCAD 2000 companion",
+      "size": "0.9 MB"
+    },
+    {
+      "url": "downloads/21_Tyrone_St_Dual_Home_Landscape.dxf",
+      "label": "DXF \u00b7 editable CAD master",
+      "size": "1.1 MB"
+    },
+    {
+      "url": "downloads/21_Tyrone_St_Landscape_A1.pdf",
+      "label": "PDF \u00b7 four-sheet A1 set",
+      "size": "2.4 MB"
+    },
+    {
+      "url": "downloads/board1_hero_3d_dual_landscape.pdf",
+      "label": "PDF \u00b7 board1 hero 3d dual landscape",
+      "size": "1.9 MB"
+    },
+    {
+      "url": "downloads/board2_masterplan_pools_easements.pdf",
+      "label": "PDF \u00b7 board2 masterplan pools easements",
+      "size": "0.4 MB"
+    },
+    {
+      "url": "downloads/board3_sections_driveway_planting.pdf",
+      "label": "PDF \u00b7 board3 sections driveway planting",
+      "size": "0.8 MB"
+    },
+    {
+      "url": "downloads/board4_axon_drainage_deliverables.pdf",
+      "label": "PDF \u00b7 board4 axon drainage deliverables",
+      "size": "0.9 MB"
+    }
+  ],
+  "status": "Concept review issue"
+}
