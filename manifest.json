@@ -1,24 +1,29 @@
 {
   "sheets": [
     {
+      "number": "LA-01A",
+      "title": "Rear pools, wellness & dusk lighting \u00b7 V3 base",
+      "src": "assets/v2_01_rear_pools_dusk.jpg"
+    },
+    {
+      "number": "LA-01B",
+      "title": "Tyrone Street frontage & terraced entry \u00b7 V3 base",
+      "src": "assets/v2_02_street_frontage_dusk.jpg"
+    },
+    {
       "number": "LA-01",
-      "title": "Garden & frontage / concept review",
-      "src": "assets/board1_hero_3d_dual_landscape.jpg"
+      "title": "Illustrated landscape masterplan & material palette",
+      "src": "assets/v2_03_illustrated_masterplan.jpg"
     },
     {
       "number": "LA-02",
-      "title": "Master landscape plan / pools & easements",
-      "src": "assets/board2_masterplan_pools_easements.jpg"
+      "title": "Master landscape plan \u00b7 pools, levels & easements (1:100)",
+      "src": "assets/v2_04_cad_masterplan.jpg"
     },
     {
       "number": "LA-03",
-      "title": "Levels / planting & hardscape",
-      "src": "assets/board3_sections_driveway_planting.jpg"
-    },
-    {
-      "number": "LA-04",
-      "title": "Coordinated model / drainage & trees",
-      "src": "assets/board4_axon_drainage_deliverables.jpg"
+      "title": "Site sections, 1.0m step-down & construction details",
+      "src": "assets/v2_05_cad_sections.jpg"
     }
   ],
   "downloads": [
@@ -63,5 +68,5 @@
       "size": "0.9 MB"
     }
   ],
-  "status": "Concept review issue"
+  "status": "Rev 02 \u00b7 V3 coordinated dusk & masterplan package"
 }
